@@ -12,7 +12,7 @@ This curriculum heavily realies on [NodeSchool.io](http://nodeschool.io) for the
 It is *highly recommended* that your `fork` this repository, keep track of your learning progress by adding `x`es inside the `[ ]` checkboxes and committing them to your own repository. 
 
 ### New to Collaborative & Open Source Programming?
-- [ ] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
+- [x] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
 - [ ] Install a Git client,
   - Simple:
     - [GitHub for Windows](https://windows.github.com/) 
